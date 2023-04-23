@@ -16,7 +16,7 @@ It features images of the following categories and subcategories of waste:
   * soda can
 * organic
   * burgers
-  * rotten organges
+  * rotten oranges
   * rotten apples
 * paper
   * cardboard box
