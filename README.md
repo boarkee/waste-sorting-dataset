@@ -29,3 +29,8 @@ It features images of the following categories and subcategories of waste:
   * disposable
   * straw
 
+Each class or category in the dataset was split as follows: 
+
+* 70% for training
+* 20% for validation 
+* 10% for testing 
