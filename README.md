@@ -9,8 +9,23 @@ It features images of the following categories and subcategories of waste:
 * glass 
   * bottle
   * glass
-jar
-wine glass
+  * jar
+  * wine glass
 * metal
-** food can
+  * food can
+  * soda can
+* organic
+  * burgers
+  * rotten organges
+  * rotten apples
+* paper
+  * cardboard box
+  * newspaper
+  * office paper
+* plastic
+  * bag
+  * bottle
+  * cup
+  * disposable
+  * straw
 
