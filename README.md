@@ -7,10 +7,10 @@ The images contained in this dataset were downloaded from different websites lik
 It features images of the following categories and subcategories of waste:
 
 * glass 
-** bottle
-** glass
-** jar
-** wine glass
+bottle
+glass
+jar
+wine glass
 * metal
 ** food can
 
